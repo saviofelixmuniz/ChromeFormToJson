@@ -1,0 +1,28 @@
+_authkey_:106352422A4DEB0810953636A6FBE2079955529786098DE8B0D32416202E380E34C245FA99C431C7C7A75560FDE65150
+__EVENTTARGET:ControlGroupSearch$LinkButtonSubmit
+ControlGroupSearch$SearchMainSearchView$DropDownListSearchBy:columnView
+culture:pt-BR
+ControlGroupSearch$SearchMainSearchView$TextBoxPromoCode:CALLCENT
+ControlGroupSearch$SearchMainSearchView$RadioButtonMarketStructure:RoundTrip
+origin1:São Paulo - Todos os Aeroportos (SAO)
+ControlGroupSearch$SearchMainSearchView$TextBoxMarketOrigin1:São Paulo - Todos os Aeroportos (SAO)
+ControlGroupSearch$SearchMainSearchView$CheckBoxUseMacOrigin1:on
+hdfSearchCodeDeparture1:1N
+originIata1:SAO
+destination1:Rio de Janeiro - Todos os Aeroportos (RIO)
+ControlGroupSearch$SearchMainSearchView$TextBoxMarketDestination1:Rio de Janeiro - Todos os Aeroportos (RIO)
+ControlGroupSearch$SearchMainSearchView$CheckBoxUseMacDestination1:on
+hdfSearchCodeArrival1:1N
+destinationIata1:RIO
+departure1:28/06/2018
+ControlGroupSearch$SearchMainSearchView$DropDownListMarketDay1:28
+ControlGroupSearch$SearchMainSearchView$DropDownListMarketMonth1:2018-06
+arrival:01/07/2018
+ControlGroupSearch$SearchMainSearchView$DropDownListMarketDay2:01
+ControlGroupSearch$SearchMainSearchView$DropDownListMarketMonth2:2018-07
+originIata2:
+destinationIata2:
+ControlGroupSearch$SearchMainSearchView$DropDownListPassengerType_ADT:1
+ControlGroupSearch$SearchMainSearchView$DropDownListPassengerType_CHD:0
+ControlGroupSearch$SearchMainSearchView$DropDownListPassengerType_INFANT:0
+ControlGroupSearch$SearchMainSearchView$DropDownListFareTypes:R
